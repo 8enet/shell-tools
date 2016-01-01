@@ -1,4 +1,9 @@
 #!/bin/bash 
+
+#需要借助aapt查看包名等信息,aapt命令在android sdk/build-tools/xxx-version/aapt
+#最好将这个文件夹加入到环境变量
+
+
 tmpdir=".temp_for_certificate"
 mkdir $tmpdir 
 cd $tmpdir 
