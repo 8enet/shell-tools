@@ -1,4 +1,4 @@
-# APK 工具
+# APK shell 工具
 
 * [apkinfo.sh](apkinfo.sh) 查看apk包名、版本和签名信息，依赖aapt和jdk   
   ```
