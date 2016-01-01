@@ -15,3 +15,5 @@
   ./rebuild.sh xxx.apk 
   ```
    
+
+在osx上能正常运行。
